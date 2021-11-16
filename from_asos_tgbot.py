@@ -25,7 +25,7 @@ def get_content(html): # получает контент(картинку)
 html = get_html(URL)
 
 
-TOKEN = "2079683647:AAGX439vr8BZKhoSWmn6xoo8NRROmAClBlU"
+TOKEN = ******************oSWmn6xoo8NRROmAClBlU"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
